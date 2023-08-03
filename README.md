@@ -47,7 +47,7 @@ third generation: Exicon ECW20N20 / ECW20P20 (200V / 16A / 250W) **TO-264  not y
 ----
 
 ## Pictures:
-#### second generation:  
+#### first generation:  
 T.B.D.  
 
   
