@@ -40,7 +40,7 @@ All 4 supply voltages (±/+VTS/-VTS) can be filtered against ground with MKP cap
 
 ### used double-die lateral MOSFETs:  
 first generation: Semelab BUZ900D / BUZ905D (160V / 16A / 250W) TO-3  
-first generation "HV"-versions: Semelab BUZ901D / BUZ906D (200V / 16A / 250W) TO-3  
+first generation "HV"-version: Semelab BUZ901D / BUZ906D (200V / 16A / 250W) TO-3  
 second generation: Exicon ECF20N20 / ECF20P20 (200V / 16A / 250W) TO-3  
 third generation: Exicon ECW20N20 / ECW20P20 (200V / 16A / 250W) **TO-264  not yet released**  
 
