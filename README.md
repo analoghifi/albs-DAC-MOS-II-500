@@ -3,6 +3,9 @@
 
 albs DAC-MOS-II 500 audio power amplifier module (mono single channel)  
 using double die lateral MOSFETs
+### Marketing-text: 
+text.  
+#### The features described below illustrate the high technical standard of this module series: 
 * Balanced audio input (unbalanced input possible as well)  
 * fully DC-coupled  
 * Bridge Mode (BTL) possible (using two modules) resulting in multiple power and double slew rate, no matter if a balanced or unbalanced input is used (without the need of additional circuits)  
