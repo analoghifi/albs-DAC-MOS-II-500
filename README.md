@@ -70,5 +70,10 @@ T.B.D.
 <img src="/Pics/Albs_DAC-MOS_500__Exicon_1.png">  
   
 <img src="/Pics/Albs_DAC-MOS_500__Exicon_2.png">
+  
+----
+  
+you can still buy it (the second generation) on ebay (as of 2023 Aug 01):  
+* DAC-MOS II 500 -> https://www.ebay.com/itm/254110259549  
 
-
+or directly from the manufacturer: -> https://albs.de  
