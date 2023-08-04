@@ -2,7 +2,9 @@
 # albs DAC-MOS II 500
 
 albs DAC-MOS II 500 audio power amplifier module (mono single channel)  
-using double die lateral MOSFETs
+using double die lateral MOSFETs  
+  
+(Note: previously the "DAC-MOS II 500" was called "DAC-MOS II 500**D**" - this is exactly the same version, there are no two different versions, it's just a naming issue)  
 ### Marketing-text: 
 The DAC-MOS II 500 module is built on the same base board as all other [DAC-MOS II modules](https://github.com/analoghifi/albs-DAC-MOS-II-360-240-120) and thus has the same pin assignment.  
   
