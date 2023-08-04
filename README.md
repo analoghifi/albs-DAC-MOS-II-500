@@ -1,10 +1,22 @@
 
-# albs DAC-MOS-II 500
+# albs DAC-MOS II 500
 
-albs DAC-MOS-II 500 audio power amplifier module (mono single channel)  
+albs DAC-MOS II 500 audio power amplifier module (mono single channel)  
 using double die lateral MOSFETs
 ### Marketing-text: 
-text.  
+The DAC-MOS II 500 module is built on the same base board as all other [DAC-MOS II modules](https://github.com/analoghifi/albs-DAC-MOS-II-360-240-120) and thus has the same pin assignment.  
+  
+In order to exploit the full performance, a power supply voltage of ±75 to ±80V is required, whereby a low-impedance / high load capacity power supply unit must be used.  
+Only a power supply with ≥80000µF/85V using our toroidal transformers RK-75M, RK-95M or RK-55M is suitable.  
+For cooling, the module must be attached to a heat sink with a thermal resistance of at least 0.2 to 0.3 K/W (kelvins per watt).  
+  
+The main advantage over the [DAC-MOS II 360](https://github.com/analoghifi/albs-DAC-MOS-II-360-240-120) is that this module can also be operated at impedances around 1 Ohm, i.e. wherever high output currents are required.  
+  
+When power is drawn from approx. 350 watts and above, forced cooling with a fan is absolutely necessary, because otherwise sufficient heat dissipation from the cooling angle is not possible.  
+  
+Each of the TO-3 MOSFET transistor housings contains 2 power chips with max. 8A and 125W power dissipation each. These 6 pairs of mosfets with max. 48A generate up to 750 watts of power dissipation in a very small space, which of course has to be dissipated. This can only be done by forced cooling.  
+  
+The parallel connection of the mosfets results in a high damping factor, i.e. a low internal resistance at the loudspeaker connection, which is particularly advantageous for low-impedance loudspeakers with high current requirements. If it is not about high output power but about high current consumption, it always makes more sense to work with a low operating voltage in order to keep the heat losses caused by the quiescent current low.  
 #### The features described below illustrate the high technical standard of this module series: 
 * Balanced audio input (unbalanced input possible as well)  
 * fully DC-coupled  
